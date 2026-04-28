@@ -34,6 +34,12 @@ In order to reupload without reports or getting flagged, you MUST follow this po
 * SEGA® and Sonic Team® - Classic Sonic physics inspired by Sonic Mania & Sonic Superstars. Sounds are dumped from Sonic Mania.
 * Sonic, Tails, & Knuckles Sprites - The Mod.Gen Project & [Re-Done Classic Knuckles Sprites](https://scratch.mit.edu/projects/114767499/) (By [`@MunchJrGames`](https://scratch.mit.edu/users/MunchJrGames/))
 
+### Zones
+
+* Test Chamber Alpha
+
 ### Screenshots
 
 ![Title Screen Screenshot](./sse-plus-title-screen.png)
+![Save Select Screenshot](./sse-plus-save-select.png)
+![Screenshot of Test Chamber Alpha Act 1](./sse-plus-tca1.png)
