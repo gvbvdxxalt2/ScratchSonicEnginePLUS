@@ -13,6 +13,7 @@ There is no code inside the repository, you need to check the [releases page](ht
 * 🏃 Close-to-accurate Classic Sonic physics - Run up walls, slopes, and launch yourself off curves! Feels just like you're playing the real game!
 * ⚙ Easy configuration - Using the `Configuration` sprite, you can edit in your own levels easily.
 * 📝 Save states & codes - You can now save your saves into codes by pressing P in the level to leave into the save select.
+* 🎮 Entire framework for an Sonic fangame - It has everything you need! Not just a singular level with Sonic running on black squares and lines.
 
 ### 🎮 How to play & edit 🛠
 
