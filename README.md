@@ -1,19 +1,19 @@
 ![Scratch Sonic Engine PLUS logo](./sse-plus-logo.png)
-## Scratch Sonic Engine PLUS
+## 🦔 Scratch Sonic Engine PLUS
 
 > [!IMPORTANT]
 > This project is still in the beta stage and may change A lot.
-> It's recommended you don't use for full Classic Sonic style fangames, since you can't merge Scratch code.
+> It's recommended you don't use for full Classic Sonic style fangames, since you can't merge Scratch code easily.
 
 Welcome to the Scratch Sonic Engine PLUS repository!
 There is no code inside the repository, you need to check the [releases page](https://github.com/gvbvdxxalt2/ScratchSonicEnginePlus) to get the source code.
 
-### Features
+### ✨ Features
 
 * Close-to-accurate Classic Sonic physics - Run up walls, slopes, and launch yourself off curves! Feels just like you're playing the real game!
 * Easy configuration - Using the `Configuration` sprite, you can edit in your own levels easily.
 
-### How to play & edit
+### 🎮 How to play & edit 🛠
 
 You'll need to download a SB3 release from the [releases page](https://github.com/gvbvdxxalt2/ScratchSonicEnginePlus).
 
@@ -21,7 +21,7 @@ Open the [Scratch editor](https://scratch.mit.edu/projects/editor), [TurboWarp](
 
 Thats it!
 
-### Recommended settings
+### ⚙ Recommended settings
 
 If you're using a modified [Scratch editor](https://scratch.mit.edu/projects/editor), you'll probably have some custom settings set, here are the recommended settings for the best experience.
 
@@ -31,7 +31,7 @@ If you're using a modified [Scratch editor](https://scratch.mit.edu/projects/edi
 | Infinite Clones | on | Objects and the level itself are clones, you should keep this off if you need full compatiblity with plain Scratch. |
 | Disable Sprtie Fencing | off | Scratch Sonic Engine PLUS uses this to detect when things are off screen, if you turn this on, everything would be active at once in the level and make the game laggy and slow, so its best to keep this off. |
 
-### Reupload policy
+### 🐱 Reupload policy
 
 In order to reupload without reports or getting flagged, you MUST follow this policy:
 
@@ -39,7 +39,7 @@ In order to reupload without reports or getting flagged, you MUST follow this po
 * Give the GitHub url - You also must include the GitHub URL to avoid confusion for people also trying to use the engine, the GitHub URL is `https://github.com/gvbvdxxalt2/ScratchSonicEnginePlus`.
 
 
-### Legal disclaimer
+### 📜 Legal disclaimer
 
 > [!IMPORTANT]
 > This is a non-profit fan-made engine.
@@ -47,16 +47,16 @@ In order to reupload without reports or getting flagged, you MUST follow this po
 > All Sonic the Hedgehog characters, assets, and music are trademarks of SEGA® and Sonic Team®.
 > This is a tribute to their work.
 
-### Credits
+### 📖 Credits
 
 * SEGA® and Sonic Team® - Classic Sonic physics inspired by Sonic Mania & Sonic Superstars. Sounds are dumped from Sonic Mania.
 * Sonic, Tails, & Knuckles Sprites - The Mod.Gen Project & [Re-Done Classic Knuckles Sprites](https://scratch.mit.edu/projects/114767499/) (By [`@MunchJrGames`](https://scratch.mit.edu/users/MunchJrGames/))
 
-### Zones
+### 🌴 Zones
 
 * Test Chamber Alpha
 
-### Screenshots
+### 🖼 Screenshots
 
 ![Title Screen Screenshot](./sse-plus-title-screen.png)
 ![Save Select Screenshot](./sse-plus-save-select.png)
