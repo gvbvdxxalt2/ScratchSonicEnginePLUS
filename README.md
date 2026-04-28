@@ -21,6 +21,32 @@ Open the [Scratch editor](https://scratch.mit.edu/projects/editor), [TurboWarp](
 
 Thats it!
 
+### 🕹 Basic Controls
+
+| Button | Action |
+| :--- | :--- |
+| Arrow Keys | Navigate menus, or control your character |
+| Z key | Makes your character jump |
+| Space | Start on title screen and save select |
+| P key | Exits the level |
+| R key | Resets the selected save data in save select |
+
+### 🛠🕹 Debug Controls
+
+> [!IMPORTANT]
+> Debug Mode is only in level, and also can be turned off in the `Configuration` sprite.
+> We're sure it should work in our releases.
+
+| Button | Action |
+| :--- | :--- |
+| C + D keys | Toggle debug mode |
+| Arrow Keys | Fly around |
+| A key + Arrow Keys | Fly around faster |
+| C key + Arrow Keys | Fly around slowly (1 pixel per frame) |
+| D key | Rotate |
+| Z key | Place object |
+| X key | Cycle through objects |
+
 ### ⚙ Recommended settings
 
 If you're using a modified [Scratch editor](https://scratch.mit.edu/projects/editor), you'll probably have some custom settings set, here are the recommended settings for the best experience.
@@ -37,7 +63,12 @@ In order to reupload without reports or getting flagged, you MUST follow this po
 
 * Give full credit to me and the project name - You must put `@gvbvdxx` and the project name, you can thank or credit me however you want, as long as you include both names. Example: `Thanks @gvbvdxx for creating Scratch Sonic Engine PLUS! This whole game wouldn't have been possible without it.`
 * Give the GitHub url - You also must include the GitHub URL to avoid confusion for people also trying to use the engine, the GitHub URL is `https://github.com/gvbvdxxalt2/ScratchSonicEnginePlus`.
+* Avoid editing the `By: Gvbvdxx (Intro)` sprite - For people who forget to add the stuff above, this is the bare minimum for what you can have. If you forget to add the stuff above, it at least shows you've used Scratch Sonic Engine PLUS.
 
+> [!IMPORTANT]
+> If you haven't known, I've been banned from the [Scratch](https://scratch.mit.edu) community permanently.
+> You can read all about it [here on my domain](https://gvbvdxx.me).
+> Scratch may hide your projects from the search if you include my username, but it doesn't mean to not follow the policy above.
 
 ### 📜 Legal disclaimer
 
