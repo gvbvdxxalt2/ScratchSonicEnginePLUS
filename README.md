@@ -13,6 +13,24 @@ There is no code inside the repository, you need to check the [releases page](ht
 * Close-to-accurate Classic Sonic physics - Run up walls, slopes, and launch yourself off curves! Feels just like you're playing the real game!
 * Easy configuration - Using the `Configuration` sprite, you can edit in your own levels easily.
 
+### How to play & edit
+
+You'll need to download a SB3 release from the [releases page](https://github.com/gvbvdxxalt2/ScratchSonicEnginePlus).
+
+Open the [Scratch editor](https://scratch.mit.edu/projects/editor), [TurboWarp](https://turbowarp.org), or other mods, and just open the SB3 file. (Usually called `Load from your computer`)
+
+Thats it!
+
+### Recommended settings
+
+If you're using a modified [Scratch editor](https://scratch.mit.edu/projects/editor), you'll probably have some custom settings set, here are the recommended settings for the best experience.
+
+| Setting | Value | Reason |
+| :--- | :--- | :--- |
+| Stage width & height | 480x360 | Scratch Sonic Engine PLUS was made for compatiblity with Scratch and is tied to this resolution. |
+| Infinite Clones | on | Objects and the level itself are clones, you should keep this off if you need full compatiblity with plain Scratch. |
+| Disable Sprtie Fencing | off | Scratch Sonic Engine PLUS uses this to detect when things are off screen, if you turn this on, everything would be active at once in the level and make the game laggy and slow, so its best to keep this off. |
+
 ### Reupload policy
 
 In order to reupload without reports or getting flagged, you MUST follow this policy:
