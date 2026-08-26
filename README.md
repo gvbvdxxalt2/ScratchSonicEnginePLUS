@@ -88,8 +88,12 @@ In order to reupload without reports or getting flagged, you MUST follow this po
 ### 🌴 Zones
 
 * Test Chamber Alpha
+* Template Level (Scratch Sonic Engine original throwback)
+* Rapid Beach (Scratch Sonic Engine original throwback)
 
 ### 🖼 Screenshots
+
+Might be outdated and might look differently compared to recent versions.
 
 ![Title Screen Screenshot](./sse-plus-title-screen.png)
 ![Save Select Screenshot](./sse-plus-save-select.png)
