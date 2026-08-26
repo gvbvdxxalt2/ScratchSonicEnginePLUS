@@ -2,8 +2,8 @@
 ## 🦔 Scratch Sonic Engine PLUS
 
 > [!IMPORTANT]
-> This project is still in the beta stage and may change A lot.
-> It's recommended you don't use for full Classic Sonic style fangames, since you can't merge Scratch code easily.
+> This project is technically not beta anymore, but still may change A lot.
+> So you might have to merge manually (which you'll probably have to figure out yourself) or just live without some future features.
 
 Welcome to the Scratch Sonic Engine PLUS repository!
 There is no code inside the repository, you need to check the [releases page](https://github.com/gvbvdxxalt2/ScratchSonicEnginePlus) to get the source code.
@@ -51,15 +51,15 @@ Thats it!
 
 ### ⚙ Recommended settings
 
-If you're using a modified [Scratch editor](https://scratch.mit.edu/projects/editor), you'll probably have some custom settings set, here are the recommended settings for the best experience.
+If you're using a modified [Scratch editor](https://scratch.mit.edu/projects/editor) such as TurboWarp (link listed above), you'll probably have some custom settings set, here are the recommended settings for the best experience.
 
 | Setting | Value | Reason |
 | :--- | :--- | :--- |
-| Stage width & height | 480x360 | Scratch Sonic Engine PLUS was made for compatiblity with Scratch and is tied to this resolution. |
-| Infinite Clones | on | Objects and the level itself are clones, you should keep this off if you need full compatiblity with plain Scratch. |
-| Disable Sprtie Fencing | off | Scratch Sonic Engine PLUS uses this to detect when things are off screen, if you turn this on, everything would be active at once in the level and make the game laggy and slow, so its best to keep this off. |
+| Stage width & height | 480x360 | Scratch Sonic Engine PLUS was made for compatibility with Scratch and is tied to this resolution. |
+| Infinite Clones | on | Objects and the level itself are clones, you should keep this off if you need full compatibility with plain Scratch. |
+| Disable Sprite Fencing | off | Scratch Sonic Engine PLUS uses this to detect when things are off screen, if you turn this on, everything would be active at once in the level and make the game laggy and slow, so its best to keep this off. |
 
-### 🐱 Reupload policy
+### 🐱⬆ Reupload policy
 
 In order to reupload without reports or getting flagged, you MUST follow this policy:
 
