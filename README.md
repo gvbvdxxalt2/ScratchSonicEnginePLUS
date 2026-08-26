@@ -5,6 +5,10 @@
 > This project is technically not beta anymore, but still may change A lot.
 > So you might have to merge manually (which you'll probably have to figure out yourself) or just live without some future features.
 
+> [!IMPORTANT]
+> [SB3fix](https://github.com/TurboWarp/sb3fix) might be required to use this project due to me using the modern scratch editor for some things.
+> Just run it through the "Scratch" and then "TurboWarp" settings before using.
+
 Welcome to the Scratch Sonic Engine PLUS repository!
 There is no code inside the repository, you need to check the [releases page](https://github.com/gvbvdxxalt2/ScratchSonicEnginePlus) to get the source code.
 
